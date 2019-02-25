@@ -10,7 +10,7 @@ The aim of this repository is to implement and document the File Structure progr
 ## Prerequisites
 
 * [Unix-based OS](resources/UNIXphilosophy.pdf) 
-    - e.g.: [Ubuntu](<https://www.ubuntu.com/>)
+    - e.g., [Ubuntu](<https://www.ubuntu.com/>)
 * [Unix file system](https://en.wikipedia.org/wiki/Unix_filesystem)
 * [Unix system calls and C++ support for file handling]()
 * [Interprocess Communication Mechanisms](https://www.tldp.org/LDP/tlk/ipc/ipc.html)
