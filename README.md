@@ -1,40 +1,27 @@
-# FS-Workshop
+# Resource Materials for File Structures Laboratory, VTU (15ISL68)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
-
-
-## Welcome
-
-Welcome to this FS workshop. Our goal is to help students understand the File Structures concepts and the programs with IPC implementation. 
-
-This repo is meant to be used in parallel in lecture. 
-
-## Thanks
-
-Special thanks to my mentor [Santosh Pattar](https://scholar.google.com/citations?user=DTqvAtQAAAAJ&hl=en) and [Dwaraka Kulkarni](https://in.linkedin.com/in/dwaraka-kulkarni), Department of Computer Science and Engineering, University Visvesvaraya College of Engineering, Bengaluru, India.
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 
-## Your Goal
+## Scope
 
-This repo consists of the FS laboratory programs using IPC mechanism. All you need to do is implement these programs in your system and analyze the expected outputs.
+The aim of this repository is to implement and document the File Structure programs with IPC mechanism along with a few examples mini-project implementations.
 
+## Prerequisites
 
-## System Requirements
+* [Unix-based OS](resources/UNIXphilosophy.pdf) 
+    - e.g.: [Ubuntu](<https://www.ubuntu.com/>)
+* [Unix file system](https://en.wikipedia.org/wiki/Unix_filesystem)
+* [Unix system calls and C++ support for file handling]()
+* [Interprocess Communication Mechanisms](https://www.tldp.org/LDP/tlk/ipc/ipc.html)
 
-* [Ubuntu](<https://www.ubuntu.com/download/desktop>)
+## Contents
 
-## How To Run Tests
-
-You will need to start by cloning this repo, then you'll start running programs from your terminal. For example, type:
-
-```
-$g++ writer.cpp -o writer
-$g++ fs2.cpp 
-$ ./a.out 
-```
+* [Lab Programs](lab-programs/programs.md)
+* [Mini-Project Examples](mini-project/project.md)
 
 ## Contributors
 
-Thanks goes to these wonderful people :
-1. [Santosh Pattar](https://scholar.google.com/citations?user=DTqvAtQAAAAJ&hl=en) 
-2. [Dwaraka Kulkarni](https://in.linkedin.com/in/dwaraka-kulkarni)
+* [Ritika Golasangi](https://in.linkedin.com/in/ritika-golasangi-91159113a)
+* [Dwaraka Kulkarni](https://in.linkedin.com/in/dwaraka-kulkarni)
+* [Santosh Pattar](https://scholar.google.com/citations?user=DTqvAtQAAAAJ&hl=en)

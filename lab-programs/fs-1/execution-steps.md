@@ -1,15 +1,14 @@
----------------------------------------------------------
-					Compilation Steps
----------------------------------------------------------
+# Compilation Steps
 
+```shell
 $g++ reader.cpp -o reader
 $g++ writer.cpp -o writer
 $g++ fs1.cpp
+```
 
----------------------------------------------------------
-						Run-1
----------------------------------------------------------
+## Run-1
 
+```shell
 $./a.out
 1. Console I/O 
 2. File I/O 
@@ -31,11 +30,11 @@ harry
 (2) Read "harry" from FIFO file
 (3) Reversed Name is: yrrah
 (1) Wrote "harry" to FIFO file
+```
 
----------------------------------------------------------
-						Run-2
----------------------------------------------------------
+## Run-2
 
+```shell
 $cat > f.txt
 fan
 pox [enter]
@@ -66,4 +65,4 @@ pox
 $cat o.txt
 naf
 xop
-
+```

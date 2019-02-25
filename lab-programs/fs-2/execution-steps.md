@@ -1,5 +1,13 @@
+# Compilation Steps
+
+```shell
 $g++ writer.cpp -o writer
 $g++ fs2.cpp 
+```
+
+## Run
+
+```shell
 $ ./a.out 
 
 1.Pack
@@ -31,4 +39,4 @@ USN Found
 
 Name	USN	Semester	Age	Branch
 xyz		23	6			22	ec
-
+```
