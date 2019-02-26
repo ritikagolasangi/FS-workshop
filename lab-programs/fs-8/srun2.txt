@@ -1,0 +1,5 @@
+cantonese
+chinese
+mandarin
+sinitic
+taiwanese

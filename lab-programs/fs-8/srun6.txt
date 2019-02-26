@@ -1,0 +1,5 @@
+hebrew
+hungarian
+icelandic
+javanese
+japanese

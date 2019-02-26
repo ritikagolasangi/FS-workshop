@@ -1,0 +1,5 @@
+bengali
+dutch
+french
+hispanic
+swahili

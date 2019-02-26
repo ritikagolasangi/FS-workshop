@@ -124,7 +124,7 @@ int search(){
 			flag = 1;
 			cout<<"Usn found\n";
 			cout<<"Name\tUSN\tSemester\tAge\tBranch\n";
-			printf("\n%s\t%s\t%s\t%s\t%s\n",s.name,s.usn,s.age,s.sem,s.branch);
+			printf("\n%s\t%s\t%s\t%s\t%s\n",s.name,s.usn,s.sem,s.age,s.branch);
 			break;
 		}
 	}
@@ -145,7 +145,7 @@ int display(){
 		fp.getline(s.sem, 5, '|');
 		fp.getline(s.age, 5, '|');
 		fp.getline(s.branch, 5, '\n');
-		printf("\n%s\t%s\t%s\t%s\t%s\n",s.name,s.usn,s.age,s.sem,s.branch);
+		printf("\n%s\t%s\t%s\t%s\t%s\n",s.name,s.usn,s.sem,s.age,s.branch);
 	}
 	fp.close();
 }

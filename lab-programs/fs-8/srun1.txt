@@ -1,0 +1,4 @@
+kannada
+tamil
+telugu
+urdu
