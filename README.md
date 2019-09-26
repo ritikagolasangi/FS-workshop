@@ -24,4 +24,3 @@ The aim of this repository is to implement and document the File Structure progr
 
 * [Ritika Golasangi](https://in.linkedin.com/in/ritika-golasangi-91159113a)
 * [Dwaraka Kulkarni](https://in.linkedin.com/in/dwaraka-kulkarni)
-* [Santosh Pattar](https://scholar.google.com/citations?user=DTqvAtQAAAAJ&hl=en)
